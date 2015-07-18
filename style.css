@@ -1,0 +1,97 @@
+code {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 24px 15px;
+  text-align: center;
+}
+
+
+body {
+  display: block;
+  margin-top: 0px;
+  margin-left: 0px;
+  height:auto;
+  color: #000;
+}
+
+.background {
+  background-image: url("images/bg.jpg");
+  background-repeat: no-repeat;
+
+}
+
+
+.body {
+
+  max-width: 1200px
+
+}
+.social-media {
+top: 0px;
+float: right;
+
+}
+
+.top_image {
+  max-width: 1200px;
+}
+
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border-bottom: solid grey 2px;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.flex-item {
+  background: #FFF;
+  padding: 5px;
+  margin-top: 5px;
+}
+/*--
+.skateboard {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  clear: both;
+  margin-top: 0px;
+  margin-left: 0px;
+  padding-top: 20px;
+  padding-left: 0px;
+  background-color: #fff
+
+}--*/
+
+.profile_image{
+  display: inline-block;
+
+}
+
+.profile_1 {
+  max-width: 67%;
+  display: block;
+}
+
+.profile_2 {
+max-width: 30%;
+}
+
+.profile_3 {
+  max-width: 100%;
+  clear: both;
+}
+
+.footer {
+  clear: both;
+}
