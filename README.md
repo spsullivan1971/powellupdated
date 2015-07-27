@@ -1,0 +1,1 @@
+Got so much further with the CSS but still struggle with the organization of the styling overall.  Form some classmate examples I reviewed I think that a multiple stylsheet integration would make things much easier.  Will need to redirect and start over with that in mind.  Should be pretty quick to get this back to where I am now and then move to a complete product.
